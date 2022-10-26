@@ -1,0 +1,6 @@
+
+package Clases;
+
+class string {
+    
+}
